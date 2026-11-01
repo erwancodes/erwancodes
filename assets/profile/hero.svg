@@ -17,7 +17,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 <circle cx="22" cy="20" r="5.5" fill="#ff5f57"/>
 <circle cx="40" cy="20" r="5.5" fill="#febc2e"/>
 <circle cx="58" cy="20" r="5.5" fill="#28c840"/>
-<text x="423.0" y="24" fill="#6e6e6e" font-size="12" text-anchor="middle">erwan@helionis: ~</text>
+<text x="423.0" y="24" fill="#6e6e6e" font-size="12" text-anchor="middle">erwan@erwanx: ~</text>
 <text x="277" y="97" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:1.95s">.</text>
 <text x="88" y="261" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:2.73s">·</text>
 <text x="81" y="199" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.72s">*</text>
