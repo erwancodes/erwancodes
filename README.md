@@ -4,4 +4,4 @@
 
 <p align="center"><a href="https://www.stagepilot.app"><img src="assets/profile/tile-stagepilot.svg" width="423" alt="StagePilot: internship search CRM with an AI copilot."></a><a href="https://shyvo.app"><img src="assets/profile/tile-shyvo.svg" width="423" alt="Shyvo: control center for indie builders."></a><a href="https://terratalk.app"><img src="assets/profile/tile-terratalk.svg" width="282" alt="TerraTalk: language and culture companion for Erasmus students."></a><a href="https://totli.app"><img src="assets/profile/tile-totli.svg" width="282" alt="Totli: a smarter way to shop for groceries."></a><a href="https://coursomi.vercel.app/"><img src="assets/profile/tile-coursomi.svg" width="282" alt="Coursomi: learning and revision platform for students."></a></p>
 
-<p align="center"><sub>Built in Normandy with Claude Code &nbsp;·&nbsp; <a href="https://erwanx.com">Helionis Labs</a></sub></p>
+<p align="center"><sub>Built in Normandy with Claude Code &nbsp;·&nbsp; <a href="https://erwanx.com">erwanx.com</a></sub></p>
