@@ -1,0 +1,397 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="430" viewBox="0 0 846 430">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.f{opacity:0;animation:fr 2.16s steps(1) infinite}
+@keyframes fr{0%{opacity:1}8.3333%{opacity:0}100%{opacity:0}}
+.tw{animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+.warp{animation:warp 1.6s ease-in forwards;opacity:0}
+@keyframes warp{0%{opacity:0;transform:scale(.2)}30%{opacity:1}100%{opacity:0;transform:scale(2.4)}}
+.panel{opacity:0;animation:in .6s ease-out 1.2s forwards}
+@keyframes in{to{opacity:1}}
+.cur{animation:bl 1s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+</style>
+<rect width="846" height="430" rx="14" fill="#0d0d0d"/>
+<rect x=".5" y=".5" width="845" height="429" rx="14" fill="none" stroke="#2a2a2a"/>
+<circle cx="22" cy="20" r="5.5" fill="#ff5f57"/>
+<circle cx="40" cy="20" r="5.5" fill="#febc2e"/>
+<circle cx="58" cy="20" r="5.5" fill="#28c840"/>
+<text x="423.0" y="24" fill="#6e6e6e" font-size="12" text-anchor="middle">erwan@helionis: ~</text>
+<text x="277" y="97" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:1.95s">.</text>
+<text x="88" y="261" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:2.73s">·</text>
+<text x="81" y="199" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.72s">*</text>
+<text x="59" y="255" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:2.84s">.</text>
+<text x="793" y="259" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:1.19s">·</text>
+<text x="470" y="91" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.26s">·</text>
+<text x="482" y="253" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:2.05s">.</text>
+<text x="482" y="111" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.29s">·</text>
+<text x="476" y="275" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.49s">*</text>
+<text x="652" y="217" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:2.77s">+</text>
+<text x="215" y="108" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:2.34s">.</text>
+<text x="258" y="228" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.03s">+</text>
+<text x="513" y="68" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:1.54s">+</text>
+<text x="136" y="226" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.12s">·</text>
+<text x="642" y="258" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:2.63s">+</text>
+<text x="584" y="266" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.74s">·</text>
+<text x="704" y="399" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.42s">·</text>
+<text x="60" y="307" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.94s">*</text>
+<text x="245" y="187" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:2.01s">*</text>
+<text x="304" y="272" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:1.48s">+</text>
+<text x="117" y="134" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.17s">·</text>
+<text x="147" y="193" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.83s">*</text>
+<text x="724" y="146" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.25s">*</text>
+<text x="801" y="97" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.53s">·</text>
+<text x="20" y="356" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:0.55s">·</text>
+<text x="130" y="243" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.83s">·</text>
+<text x="580" y="236" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.85s">·</text>
+<text x="387" y="371" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:2.86s">.</text>
+<text x="334" y="192" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.31s">*</text>
+<text x="61" y="66" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.63s">·</text>
+<text x="291" y="60" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.00s">.</text>
+<text x="94" y="178" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.08s">.</text>
+<text x="321" y="281" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:2.87s">+</text>
+<text x="402" y="84" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.46s">*</text>
+<text x="410" y="73" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:0.31s">+</text>
+<text x="405" y="303" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:1.55s">.</text>
+<text x="309" y="302" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:2.74s">+</text>
+<text x="818" y="368" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:2.09s">.</text>
+<text x="313" y="103" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:2.32s">.</text>
+<text x="653" y="165" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.67s">·</text>
+<text x="686" y="321" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.68s">*</text>
+<text x="304" y="51" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:0.08s">*</text>
+<text x="224" y="303" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:2.87s">+</text>
+<text x="799" y="179" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.66s">*</text>
+<text x="172" y="118" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.87s">·</text>
+<text x="406" y="288" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:2.40s">·</text>
+<text x="761" y="337" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:2.25s">·</text>
+<text x="368" y="282" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.26s">*</text>
+<text x="393" y="322" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.25s">·</text>
+<text x="830" y="50" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.77s">·</text>
+<text x="515" y="266" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.42s">·</text>
+<text x="463" y="90" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.04s">·</text>
+<text x="445" y="395" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:1.30s">·</text>
+<text x="33" y="121" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.50s">+</text>
+<text x="224" y="199" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.39s">+</text>
+<text x="752" y="292" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:2.45s">*</text>
+<text x="693" y="374" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.39s">.</text>
+<text x="432" y="372" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:2.33s">·</text>
+<text x="651" y="97" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.42s">·</text>
+<text x="470" y="164" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.56s">*</text>
+<text x="658" y="80" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:1.68s">·</text>
+<text x="239" y="333" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.52s">·</text>
+<text x="638" y="387" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:1.33s">.</text>
+<text x="511" y="116" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.83s">.</text>
+<text x="677" y="233" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.74s">+</text>
+<text x="772" y="379" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:0.61s">·</text>
+<text x="354" y="189" fill="#8a8a8a" font-size="12" class="tw" style="animation-delay:0.95s">·</text>
+<text x="364" y="121" fill="#8a8a8a" font-size="9" class="tw" style="animation-delay:0.91s">·</text>
+<text x="786" y="285" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:1.10s">·</text>
+<text x="809" y="123" fill="#8a8a8a" font-size="10" class="tw" style="animation-delay:2.86s">*</text>
+<g style="transform-origin:423.0px 215.0px" class="warp">
+<text x="554" y="335" fill="#d4d4d4" font-size="12">+</text>
+<text x="516" y="298" fill="#d4d4d4" font-size="12">-</text>
+<text x="370" y="262" fill="#d4d4d4" font-size="12">·</text>
+<text x="552" y="262" fill="#d4d4d4" font-size="12">·</text>
+<text x="254" y="182" fill="#d4d4d4" font-size="12">*</text>
+<text x="271" y="290" fill="#d4d4d4" font-size="12">·</text>
+<text x="366" y="213" fill="#d4d4d4" font-size="12">+</text>
+<text x="492" y="208" fill="#d4d4d4" font-size="12">·</text>
+<text x="378" y="396" fill="#d4d4d4" font-size="12">+</text>
+<text x="413" y="258" fill="#d4d4d4" font-size="12">-</text>
+<text x="572" y="100" fill="#d4d4d4" font-size="12">·</text>
+<text x="249" y="280" fill="#d4d4d4" font-size="12">-</text>
+<text x="403" y="181" fill="#d4d4d4" font-size="12">*</text>
+<text x="452" y="165" fill="#d4d4d4" font-size="12">*</text>
+<text x="418" y="238" fill="#d4d4d4" font-size="12">*</text>
+<text x="443" y="182" fill="#d4d4d4" font-size="12">+</text>
+<text x="711" y="286" fill="#d4d4d4" font-size="12">-</text>
+<text x="780" y="229" fill="#d4d4d4" font-size="12">-</text>
+<text x="533" y="185" fill="#d4d4d4" font-size="12">+</text>
+<text x="679" y="255" fill="#d4d4d4" font-size="12">*</text>
+<text x="542" y="202" fill="#d4d4d4" font-size="12">+</text>
+<text x="464" y="288" fill="#d4d4d4" font-size="12">·</text>
+<text x="322" y="204" fill="#d4d4d4" font-size="12">-</text>
+<text x="329" y="215" fill="#d4d4d4" font-size="12">·</text>
+<text x="542" y="27" fill="#d4d4d4" font-size="12">*</text>
+<text x="695" y="230" fill="#d4d4d4" font-size="12">+</text>
+<text x="308" y="209" fill="#d4d4d4" font-size="12">-</text>
+<text x="660" y="319" fill="#d4d4d4" font-size="12">-</text>
+<text x="305" y="117" fill="#d4d4d4" font-size="12">-</text>
+<text x="556" y="201" fill="#d4d4d4" font-size="12">+</text>
+<text x="569" y="206" fill="#d4d4d4" font-size="12">+</text>
+<text x="300" y="262" fill="#d4d4d4" font-size="12">*</text>
+<text x="444" y="196" fill="#d4d4d4" font-size="12">·</text>
+<text x="374" y="228" fill="#d4d4d4" font-size="12">-</text>
+<text x="597" y="113" fill="#d4d4d4" font-size="12">·</text>
+<text x="211" y="131" fill="#d4d4d4" font-size="12">*</text>
+<text x="339" y="227" fill="#d4d4d4" font-size="12">-</text>
+<text x="577" y="217" fill="#d4d4d4" font-size="12">·</text>
+<text x="633" y="195" fill="#d4d4d4" font-size="12">+</text>
+<text x="737" y="253" fill="#d4d4d4" font-size="12">+</text>
+<text x="400" y="231" fill="#d4d4d4" font-size="12">-</text>
+<text x="532" y="250" fill="#d4d4d4" font-size="12">+</text>
+<text x="426" y="375" fill="#d4d4d4" font-size="12">*</text>
+<text x="417" y="251" fill="#d4d4d4" font-size="12">-</text>
+<text x="283" y="168" fill="#d4d4d4" font-size="12">·</text>
+<text x="386" y="273" fill="#d4d4d4" font-size="12">+</text>
+<text x="276" y="91" fill="#d4d4d4" font-size="12">-</text>
+<text x="447" y="66" fill="#d4d4d4" font-size="12">-</text>
+<text x="583" y="336" fill="#d4d4d4" font-size="12">+</text>
+<text x="718" y="261" fill="#d4d4d4" font-size="12">-</text>
+<text x="393" y="50" fill="#d4d4d4" font-size="12">+</text>
+<text x="659" y="132" fill="#d4d4d4" font-size="12">*</text>
+<text x="527" y="104" fill="#d4d4d4" font-size="12">+</text>
+<text x="466" y="229" fill="#d4d4d4" font-size="12">·</text>
+<text x="576" y="193" fill="#d4d4d4" font-size="12">-</text>
+<text x="200" y="167" fill="#d4d4d4" font-size="12">+</text>
+<text x="386" y="216" fill="#d4d4d4" font-size="12">*</text>
+<text x="421" y="104" fill="#d4d4d4" font-size="12">*</text>
+<text x="392" y="188" fill="#d4d4d4" font-size="12">-</text>
+<text x="422" y="248" fill="#d4d4d4" font-size="12">·</text>
+</g>
+<g class="panel">
+<rect x="28" y="48" width="790" height="354" rx="10" fill="#0d0d0d" fill-opacity=".85" stroke="#9a9a9a" stroke-opacity=".7"/>
+<rect x="46" y="40" width="150" height="16" fill="#0d0d0d"/>
+<text x="54" y="52" fill="#9a9a9a" font-size="13">✻ erwan codes</text>
+<g class="f" style="animation-delay:0.00s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            --==++==-:            </text>
+<text x="58" y="118" xml:space="preserve">          =++***#**++=-.          </text>
+<text x="58" y="133" xml:space="preserve">         +**######**+=--.         </text>
+<text x="58" y="148" xml:space="preserve">        +**#######*++=--:.        </text>
+<text x="58" y="163" xml:space="preserve">       =+***###***++==-::..       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~==+++****++++==--:..~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   --==+++++**++++==-::..   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    -===++********++=--:..    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -=+++***###***++=-:...   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=++***###***++=-::..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -=+++*~~~~~~~~-::...       </text>
+<text x="58" y="268" xml:space="preserve">        :-========--::....        </text>
+<text x="58" y="283" xml:space="preserve">         ::-------:::....         </text>
+<text x="58" y="298" xml:space="preserve">          ..:::::::.....          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:0.18s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            -=++++==-:            </text>
+<text x="58" y="118" xml:space="preserve">          =+*###**++==-:          </text>
+<text x="58" y="133" xml:space="preserve">         +*#####**++===-:         </text>
+<text x="58" y="148" xml:space="preserve">        +*#####**++===--:.        </text>
+<text x="58" y="163" xml:space="preserve">       =+******+++===--::..       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~=++*****+++===--::..~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   :=++*******+++==--:...   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    -=+***####***++==-::..    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -=+*######***++==-:...   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=+**###***++==--::..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -=++**~~~~~~~~:::...       </text>
+<text x="58" y="268" xml:space="preserve">        -=======---:::....        </text>
+<text x="58" y="283" xml:space="preserve">         ::------:::.....         </text>
+<text x="58" y="298" xml:space="preserve">          ..::::::......          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:0.36s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            =++++==--:            </text>
+<text x="58" y="118" xml:space="preserve">          +*******+++=-.          </text>
+<text x="58" y="133" xml:space="preserve">         *###*****++++=-:         </text>
+<text x="58" y="148" xml:space="preserve">        *****+++++++++==-.        </text>
+<text x="58" y="163" xml:space="preserve">       =++++++++=======--:.       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~=++++++++=====---::.~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -=+******++++===--::..   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    -+**####****+++==-::..    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -+*#####****+++==-:...   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~+******++++++==--:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -=+++=~~~~~~~~--:...       </text>
+<text x="58" y="268" xml:space="preserve">        -----------::::...        </text>
+<text x="58" y="283" xml:space="preserve">         ::----:::::.....         </text>
+<text x="58" y="298" xml:space="preserve">          .:::::::......          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:0.54s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            =++++==--.            </text>
+<text x="58" y="118" xml:space="preserve">          +********++=-.          </text>
+<text x="58" y="133" xml:space="preserve">         +******##***+=-:         </text>
+<text x="58" y="148" xml:space="preserve">        ++++++*******++=-.        </text>
+<text x="58" y="163" xml:space="preserve">       =====++++++*+++==-:.       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~==++++++++++++==--:.~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -++++++++++++===--:...   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    =+*********+++===-:...    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -+***********++==-:...   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=+++++******++==-:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       --====~~~~~~~~=-:...       </text>
+<text x="58" y="268" xml:space="preserve">        :-------------:...        </text>
+<text x="58" y="283" xml:space="preserve">         ::::::::::::....         </text>
+<text x="58" y="298" xml:space="preserve">          .:::::::......          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:0.72s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            ==++===-::            </text>
+<text x="58" y="118" xml:space="preserve">          =+******++=--.          </text>
+<text x="58" y="133" xml:space="preserve">         ++*#######*++=-:         </text>
+<text x="58" y="148" xml:space="preserve">        =++*###%###**+=-:.        </text>
+<text x="58" y="163" xml:space="preserve">       -==++**####**++=-:..       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~-==+++*****+++=--:..~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -=++++++++++++==--:...   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    =++********+++==--:...    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -++***###***+++=--:...   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=++***###***++=--:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       :-==++~~~~~~~~--:...       </text>
+<text x="58" y="268" xml:space="preserve">        ::--=======--::...        </text>
+<text x="58" y="283" xml:space="preserve">         .::-------::....         </text>
+<text x="58" y="298" xml:space="preserve">          ..::::::......          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:0.90s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            ======---:            </text>
+<text x="58" y="118" xml:space="preserve">          +******+++==-:          </text>
+<text x="58" y="133" xml:space="preserve">         +###%###**++==-:         </text>
+<text x="58" y="148" xml:space="preserve">        +*#%%%%###*++==-:.        </text>
+<text x="58" y="163" xml:space="preserve">       -+**#####**++==--:..       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~=++******+++==--::..~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -=+++***++++===---::..   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    -++******+++====--::..    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -+*********+++==--:...   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=+**###****++==--:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -=+***~~~~~~~~-::...       </text>
+<text x="58" y="268" xml:space="preserve">        :-==+++===--::....        </text>
+<text x="58" y="283" xml:space="preserve">         ::-------::.....         </text>
+<text x="58" y="298" xml:space="preserve">          ..:::::.......          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:1.08s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            ========-:            </text>
+<text x="58" y="118" xml:space="preserve">          +******++++=-:          </text>
+<text x="58" y="133" xml:space="preserve">         *#####****++==-:         </text>
+<text x="58" y="148" xml:space="preserve">        *######**+++===-:.        </text>
+<text x="58" y="163" xml:space="preserve">       =**##***+++====--:..       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~=+***++++======--::.~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -=+++++++========--:..   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    -=+++++++++++++===-:..    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -++********++++==--:..   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~++*******++++==--:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -++***~~~~~~~~-::...       </text>
+<text x="58" y="268" xml:space="preserve">        -=======---:::....        </text>
+<text x="58" y="283" xml:space="preserve">         :-----:::::.....         </text>
+<text x="58" y="298" xml:space="preserve">          .::::::.......          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:1.26s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            -==++++=-.            </text>
+<text x="58" y="118" xml:space="preserve">          =++*******+=-.          </text>
+<text x="58" y="133" xml:space="preserve">         ***********++=-:         </text>
+<text x="58" y="148" xml:space="preserve">        *********++++==-:.        </text>
+<text x="58" y="163" xml:space="preserve">       +++++++++++++===-:..       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~=++==++++++++===-:..~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -====+++++***+++=--:..   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    -==+++*********+==-:..    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -=++**********++==-:..   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=++*******++++==-:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -=++++~~~~~~~~-::...       </text>
+<text x="58" y="268" xml:space="preserve">        ------------:::...        </text>
+<text x="58" y="283" xml:space="preserve">         ::::::::::::....         </text>
+<text x="58" y="298" xml:space="preserve">          ..:::::::.....          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:1.44s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            -=++++=-:.            </text>
+<text x="58" y="118" xml:space="preserve">          =+**###**++=-.          </text>
+<text x="58" y="133" xml:space="preserve">         +***#####**++=-:         </text>
+<text x="58" y="148" xml:space="preserve">        +++********+++=-:.        </text>
+<text x="58" y="163" xml:space="preserve">       ===++++***+++===-::.       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~-==+++****+++==--:..~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -==++***#****+==--:...   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    -=+**#######**+==-:...    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -=+**#######**++=-:...   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=++*********++=--:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -====+~~~~~~~~--:...       </text>
+<text x="58" y="268" xml:space="preserve">        :----====---:::...        </text>
+<text x="58" y="283" xml:space="preserve">         .::------:::....         </text>
+<text x="58" y="298" xml:space="preserve">          ..:::::::.....          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:1.62s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            =+*++=--::            </text>
+<text x="58" y="118" xml:space="preserve">          +*####**+==--.          </text>
+<text x="58" y="133" xml:space="preserve">         +*######**++==-:         </text>
+<text x="58" y="148" xml:space="preserve">        =+***##****+++=--.        </text>
+<text x="58" y="163" xml:space="preserve">       -=++*****++++===--:.       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~=++****++++===---::.~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -=+**#****++==---::...   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    -+*######**++==--::...    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -+*#######**++==--:...   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=+****#****++==-::..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       :==+++~~~~~~~~--:...       </text>
+<text x="58" y="268" xml:space="preserve">        :--======----::...        </text>
+<text x="58" y="283" xml:space="preserve">         ::------:::.....         </text>
+<text x="58" y="298" xml:space="preserve">          .:::::::......          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:1.80s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            =++==----:            </text>
+<text x="58" y="118" xml:space="preserve">          +*****+++===-:          </text>
+<text x="58" y="133" xml:space="preserve">         +*####****+++=-:         </text>
+<text x="58" y="148" xml:space="preserve">        +***###*****++==-.        </text>
+<text x="58" y="163" xml:space="preserve">       =++********++++=--:.       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~=++++++++++====--::.~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -+***++++======---::..   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    =******+++=====---::..    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -+*###***++++===--::..   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=+*******++++==--:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -=++++~~~~~~~~--:...       </text>
+<text x="58" y="268" xml:space="preserve">        :--=======---::...        </text>
+<text x="58" y="283" xml:space="preserve">         ::-----:::::....         </text>
+<text x="58" y="298" xml:space="preserve">          .:::::........          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<g class="f" style="animation-delay:1.98s" fill="#d4d4d4" font-size="13">
+<text x="58" y="88" xml:space="preserve">                                  </text>
+<text x="58" y="103" xml:space="preserve">            ========-:            </text>
+<text x="58" y="118" xml:space="preserve">          +++++++**++=-.          </text>
+<text x="58" y="133" xml:space="preserve">         ******###***+=-:         </text>
+<text x="58" y="148" xml:space="preserve">        +***#######**+=-:.        </text>
+<text x="58" y="163" xml:space="preserve">       =++*********++==-:..       </text>
+<text x="58" y="178" xml:space="preserve">    ~~~===++++++++++===-::.~~~    </text>
+<text x="58" y="193" xml:space="preserve"> --   -======++++++====--:..   -- </text>
+<text x="58" y="208" xml:space="preserve"> -    =++++++++++++++==--:..    - </text>
+<text x="58" y="223" xml:space="preserve"> --   -+++++++++++++++=--:..   -- </text>
+<text x="58" y="238" xml:space="preserve">    ~~~=++********+++==-:..~~~    </text>
+<text x="58" y="253" xml:space="preserve">       -=++++~~~~~~~~--:...       </text>
+<text x="58" y="268" xml:space="preserve">        :--========--::...        </text>
+<text x="58" y="283" xml:space="preserve">         :::------:::....         </text>
+<text x="58" y="298" xml:space="preserve">          ...:::::......          </text>
+<text x="58" y="313" xml:space="preserve">            ..........            </text>
+<text x="58" y="328" xml:space="preserve">                                  </text>
+</g>
+<text x="358" y="92" fill="#ffffff" font-size="16">Welcome back, Erwan!</text>
+<text x="358" y="112" fill="#6e6e6e" font-size="13">Normandy, France</text>
+<text x="358" y="142" fill="#9a9a9a" font-size="13">about</text>
+<text x="358" y="162" fill="#d4d4d4" font-size="13">I build products for students and indie builders</text>
+<text x="358" y="182" fill="#d4d4d4" font-size="13">with AI agents. Obsessed with space and astronomy.</text>
+<text x="358" y="212" fill="#9a9a9a" font-size="13">stack</text>
+<text x="358" y="232" fill="#d4d4d4" font-size="13">TypeScript, TanStack Start, React, Convex,</text>
+<text x="358" y="252" fill="#d4d4d4" font-size="13">Vercel AI SDK, Cloudflare</text>
+<text x="358" y="282" fill="#9a9a9a" font-size="13">elsewhere</text>
+<text x="358" y="302" fill="#d4d4d4" font-size="13">erwanx.com · x.com/ErwanCodes</text>
+<text x="358" y="322" fill="#d4d4d4" font-size="13">contact@erwanx.com</text>
+<text x="48" y="386" fill="#9a9a9a" font-size="13">&gt; <tspan fill="#d4d4d4">ship something today</tspan><tspan class="cur" fill="#9a9a9a"> ▍</tspan></text>
+</g></svg>
